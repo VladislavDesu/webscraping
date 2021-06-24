@@ -1,0 +1,24 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "webscraping puppeteer example",
+  "main": "main.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "puppeteer": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladislavDesu/webscraping.git"
+  },
+  "author": "Vladislav Gryadko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladislavDesu/webscraping/issues"
+  },
+  "homepage": "https://github.com/VladislavDesu/webscraping#readme"
+}
